@@ -13,5 +13,3 @@ tags:
             sub { MT->config->DefaultSiteURL }
         SiteRoot: >
             sub { MT->config->DefaultSiteRoot }
-        # SiteURL: $DefaultSiteTags::hdlr_site_url
-        # SiteRoot: $DefaultSiteTags::hdlr_site_root
